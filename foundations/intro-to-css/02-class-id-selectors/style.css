@@ -6,3 +6,14 @@
 .number-three{
     font-size: 24px;    
 }
+
+#number-two{
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#number-four{
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: bold;
+}
